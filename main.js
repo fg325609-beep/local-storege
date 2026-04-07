@@ -68,3 +68,4 @@ let odamlar = [
     "email": "zuhra@example.com"
   }
 ];
+localStorage.setItem(1, JSON.stringify(odamlar));
