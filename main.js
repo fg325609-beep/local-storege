@@ -69,3 +69,4 @@ let odamlar = [
   }
 ];
 localStorage.setItem(1, JSON.stringify(odamlar));
+// malumot toza
